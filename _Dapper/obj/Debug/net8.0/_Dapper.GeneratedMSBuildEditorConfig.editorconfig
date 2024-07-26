@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _Dapper
-build_property.ProjectDir = C:\Users\Notebook\OneDrive\Área de Trabalho\DataAccess-Balta\_Dapper\
+build_property.ProjectDir = C:\Users\Notebook\OneDrive\Documentos\Estudos\Balta.io\DataAccess-dotnet\_Dapper\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

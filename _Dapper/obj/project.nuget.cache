@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdUPRzn5rjc6ToCcn9R+z0eVnNun61Rg0GAisnFyBxCtrCc4P7CM7V7Fc3pGmdlBfQ4FojG5oFTqli/0Scar6g==",
+  "dgSpecHash": "/7eqgu4cggCWCPwHTGrwBXptLmn8HhkXxLiVuSPb2GEhL/Ke80cNXn+j9phGekP6u07Sdyi4bJcmpoNGvXyNNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Notebook\\OneDrive\\Área de Trabalho\\DataAccess-Balta\\_Dapper\\_Dapper.csproj",
+  "projectFilePath": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\Balta.io\\DataAccess-dotnet\\_Dapper\\_Dapper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Notebook\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Notebook\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Notebook\\OneDrive\\Área de Trabalho\\DataAccess-Balta\\_Dapper\\_Dapper.csproj": {}
+    "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\Balta.io\\DataAccess-dotnet\\_Dapper\\_Dapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Notebook\\OneDrive\\Área de Trabalho\\DataAccess-Balta\\_Dapper\\_Dapper.csproj": {
+    "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\Balta.io\\DataAccess-dotnet\\_Dapper\\_Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Notebook\\OneDrive\\Área de Trabalho\\DataAccess-Balta\\_Dapper\\_Dapper.csproj",
+        "projectUniqueName": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\Balta.io\\DataAccess-dotnet\\_Dapper\\_Dapper.csproj",
         "projectName": "_Dapper",
-        "projectPath": "C:\\Users\\Notebook\\OneDrive\\Área de Trabalho\\DataAccess-Balta\\_Dapper\\_Dapper.csproj",
+        "projectPath": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\Balta.io\\DataAccess-dotnet\\_Dapper\\_Dapper.csproj",
         "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Notebook\\OneDrive\\Área de Trabalho\\DataAccess-Balta\\_Dapper\\obj\\",
+        "outputPath": "C:\\Users\\Notebook\\OneDrive\\Documentos\\Estudos\\Balta.io\\DataAccess-dotnet\\_Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Notebook\\AppData\\Roaming\\NuGet\\NuGet.Config",
